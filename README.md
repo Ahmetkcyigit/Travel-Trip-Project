@@ -5,3 +5,4 @@ This project is a blog application developed for users who want to share their t
 •Database Management System: Microsoft SQL Server (MSSQL)<br>
 •ORM (Object-Relational Mapping): Entity Framework (Code First)<br>
 •Frontend Technologies: HTML, CSS, JavaScript, Razor View Engine<br>
+
